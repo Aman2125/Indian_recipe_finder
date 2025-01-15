@@ -28,7 +28,7 @@ Welcome to the *Indian Recipe Finder, a modern web application built with **Reac
 
 Follow these steps to run the project locally:
 
-1. *Clone the Repository*:
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Aman2125/Indian_recipe_finder.git
 
@@ -36,18 +36,14 @@ Follow these steps to run the project locally:
    ```bash
    cd Indian_recipe_finder
 
-
-3. *Install Dependencies*:
+3. **Install Dependencies**:
    ```bash
    npm install
-
-
 
 4. **Run the Development Server**:
    ```bash
    npm run dev
 
-
-5. *Access the Application*:
+5. **Access the Application**:
    ```bash
    Open your browser and navigate to http://localhost:5173.
