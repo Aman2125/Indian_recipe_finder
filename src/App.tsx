@@ -40,7 +40,7 @@ function AppRoutes() {
 function App() {
   return (
     <AuthProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/Indian_recipe_finder"> {/* Add the base URL here */}
         <AppRoutes />
       </BrowserRouter>
     </AuthProvider>
